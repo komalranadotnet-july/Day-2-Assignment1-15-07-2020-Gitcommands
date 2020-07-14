@@ -1,0 +1,41 @@
+1.)  git init
+
+2.) git config --global user.name "komal rana"
+
+3.) git config --global user.email "komal.rana@zensar.com"
+
+4.) git config --edit --global
+
+5.) clear - to clear screen
+
+6.) Creating -
+      code Practice.md
+
+7.) Staging-
+      git add .
+
+8.) ls - list files
+
+9.) Commiting-
+      git commit --m "Add Practice.md"
+
+10.) git status 
+
+11.) git checkout -b feature
+
+12.) git checkout master
+ 
+13.) git branch - shows the current branch 
+
+14.) git --log
+
+15.) git --log --oneline
+
+16.) git remote add origin https://github.com/komalranadotnet-july/Practice.git
+
+17.) git push -u origin master
+
+18.) git merge feature
+
+19.) git diff 758ffce fb878ce
+
